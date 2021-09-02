@@ -24,10 +24,8 @@ However, this data visualization does not work with a lot of data. Example is sh
 <p align="center">
     <img src="images/sunburst/sunburst_too_much_data.png">
     <img src="images/sunburst/sunburst_too_much_data2.png">
-</p
+</p>
 
 ## Progress Correlation of Each Country
 
 This idea is to show countries progress that is closest to a selected country by using total capacity over time data. An example of it is shown below.
-
-
