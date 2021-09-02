@@ -14,4 +14,4 @@ This idea is to cluster plants location based on a certain radius so it declutte
     <source type="video/mov" src="images/Clustering.mov"></source>
 </video> -->
 
-<img src="heatmap_with_capacity.png" width="375px">
+<img src="images/heatmap_with_capacity.png" width="375px">
