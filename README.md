@@ -26,6 +26,16 @@ However, this data visualization does not work with a lot of data. Example is sh
     <img src="images/sunburst/sunburst_too_much_data2.png">
 </p>
 
+Here is a snippet of the code using plotly
+
+```python
+import plotly.express as px
+
+fig = px.sunburst(ppca[ppca['Subnational unit (province, state)']=='Ohio'],
+                  path=['Subnational unit (province, state)','Status','Location'])
+fig.show()
+```
+
 ## Progress Correlation of Each Country
 
 This idea is to show countries progress that is closest to a selected country by using total capacity over time data. An example of it is shown below.
