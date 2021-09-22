@@ -15,7 +15,7 @@ This idea is to cluster plants location based on a certain radius so it declutte
     <img src="images/map_cluster.gif">
 </p>
 
-Here is a snipper of the code using folium and OpenStreetMap as the base map
+Here is a snippet of the code using folium and OpenStreetMap as the base map
 
 ```python
 import folium
